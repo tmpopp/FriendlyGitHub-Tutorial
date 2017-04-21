@@ -1,2 +1,3 @@
 # FriendlyGitHubTutorial
-Here's an example of creating a website within GitHub
+
+Hey! Check this out! I've created a webpage in Github!
